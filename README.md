@@ -1,0 +1,1 @@
+Demoprojekt zum Blogpost [Wiederverwendung von Komponenten mit NuGet](http://blog.anrichter.net/2014/07/wiederverwendung-von-komponenten-mit-nuget/)
