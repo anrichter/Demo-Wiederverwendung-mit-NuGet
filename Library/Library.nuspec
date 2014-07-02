@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Library</id>
+        <version>1.0.0</version>
+        <authors>anrichter</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>My personal Library</description>
+    </metadata>
+    <files>
+        <file src="Library\bin\Release\Library.dll" target="lib\Library.dll" />
+    </files>
+</package>
